@@ -1,3 +1,4 @@
 1、下载安装
 2、git config --global user.email/name
 3、git init
+4、
